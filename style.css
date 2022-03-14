@@ -1,0 +1,27 @@
+.f-left{
+    float: left;
+    overflow: hidden;
+}
+.f-right{
+    
+    overflow:hidden;
+    width: 300px;
+    margin-left:20px;
+}
+.post{
+    background-color: bisque;
+    padding:5px;
+    margin:10px;
+    border:burlywood;
+    border-radius: 15px;
+
+    
+}
+.t-center{
+    text-align:center;
+}
+.b-rounded{
+    border-radius: 20px;
+    margin:10px;
+    padding:7px;
+}
